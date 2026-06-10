@@ -1,4 +1,4 @@
-<<<<<<< HEAD
+
 # 🎤 Speech Recognition Using Python
 
 ## 📌 Overview
@@ -125,7 +125,5 @@ B.Tech Artificial Intelligence & Data Science (AI & DS)
 This mini project was developed as part of the **"Python Using ML, AI & DS"** training program conducted by **CodeBind Technologies**. The project demonstrates the implementation of Speech Recognition technology using Python to convert spoken language into text through real-time audio processing.
 
 Through this project, I gained hands-on experience in speech processing, voice recognition, API integration, and Natural Language Processing concepts.
-=======
 # speech-recognition-python
 A Python-based Speech Recognition application that converts spoken audio into text using speech processing libraries. This project captures voice input through a microphone and accurately transcribes it into readable text, demonstrating the fundamentals of speech-to-text technology and audio processing.
->>>>>>> 52b588eb198c8cc05b4e4703381f7a792853ddc7
