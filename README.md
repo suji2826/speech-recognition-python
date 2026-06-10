@@ -122,6 +122,7 @@ Through this project, you will learn:
 **Sujitha S**
 B.Tech Artificial Intelligence & Data Science (AI & DS)
 
-This mini project was developed as part of the **"Python Using ML, AI & DS"** training program conducted by **CodeBind Technologies**. The project demonstrates the implementation of Speech Recognition technology using Python to convert spoken language into text through real-time audio processing.
+This mini project was developed during my internship at **CodeBind Technologies** as part of my learning and practical experience in Python, Machine Learning, Artificial Intelligence, and Data Science.
 
-Through this project, I gained hands-on experience in speech processing, voice recognition, API integration, and Natural Language Processing concepts.
+Through this project, I gained hands-on experience in data preprocessing, machine learning model development, speech processing, natural language processing, and real-world problem-solving using Python and related technologies.
+
